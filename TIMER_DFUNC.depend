@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1585189762 source:c:\users\felipe\program_ing\code_blocks\windowssdk_nekodemowakaru\timer_dfunc\child_window.cpp
+	"child_window.h"
+
+1585159773 c:\users\felipe\program_ing\code_blocks\windowssdk_nekodemowakaru\timer_dfunc\child_window.h
+	<windows.h>
+
+1585190219 source:c:\users\felipe\program_ing\code_blocks\windowssdk_nekodemowakaru\timer_dfunc\function.cpp
+	"function.h"
+	"resource.h"
+	"variable.h"
+	"child_window.h"
+
+1585188926 c:\users\felipe\program_ing\code_blocks\windowssdk_nekodemowakaru\timer_dfunc\function.h
+	<windows.h>
+	"header.h"
+
+1585159242 c:\users\felipe\program_ing\code_blocks\windowssdk_nekodemowakaru\timer_dfunc\header.h
+	<windows.h>
+
+1585156458 c:\users\felipe\program_ing\code_blocks\windowssdk_nekodemowakaru\timer_dfunc\resource.h
+
+1585189231 c:\users\felipe\program_ing\code_blocks\windowssdk_nekodemowakaru\timer_dfunc\variable.h
+	<windows.h>
+
+1584814223 source:c:\users\felipe\program_ing\code_blocks\windowssdk_nekodemowakaru\timer_dfunc\icon.rc
+
+1585189074 source:c:\users\felipe\program_ing\code_blocks\windowssdk_nekodemowakaru\timer_dfunc\main.cpp
+	<windows.h>
+	"header.h"
+	"function.h"
+	"variable.h"
+	"resource.h"
+	"child_window.h"
+
+1585156454 source:c:\users\felipe\program_ing\code_blocks\windowssdk_nekodemowakaru\timer_dfunc\resource.rc
+	"resource.h"
+	<windows.h>
+
+1585189281 source:c:\users\felipe\program_ing\code_blocks\windowssdk_nekodemowakaru\timer_dfunc\variable.cpp
+	"variable.h"
+
+1585190664 source:c:\users\felipe\program_ing\code_blocks\timer_alarm_kannsei\child_window.cpp
+	"child_window.h"
+
+1585159773 c:\users\felipe\program_ing\code_blocks\timer_alarm_kannsei\child_window.h
+	<windows.h>
+
+1585193433 source:c:\users\felipe\program_ing\code_blocks\timer_alarm_kannsei\function.cpp
+	"function.h"
+	"resource.h"
+	"variable.h"
+	"child_window.h"
+
+1585193421 c:\users\felipe\program_ing\code_blocks\timer_alarm_kannsei\function.h
+	<windows.h>
+	"header.h"
+
+1585159242 c:\users\felipe\program_ing\code_blocks\timer_alarm_kannsei\header.h
+	<windows.h>
+
+1585156458 c:\users\felipe\program_ing\code_blocks\timer_alarm_kannsei\resource.h
+
+1585189231 c:\users\felipe\program_ing\code_blocks\timer_alarm_kannsei\variable.h
+	<windows.h>
+
+1584814223 source:c:\users\felipe\program_ing\code_blocks\timer_alarm_kannsei\icon.rc
+
+1585193440 source:c:\users\felipe\program_ing\code_blocks\timer_alarm_kannsei\main.cpp
+	<windows.h>
+	"header.h"
+	"function.h"
+	"variable.h"
+	"resource.h"
+	"child_window.h"
+
+1585193579 source:c:\users\felipe\program_ing\code_blocks\timer_alarm_kannsei\resource.rc
+	"resource.h"
+	<windows.h>
+
+1585260520 source:c:\users\felipe\program_ing\code_blocks\timer_alarm_kannsei\variable.cpp
+	"variable.h"
+
